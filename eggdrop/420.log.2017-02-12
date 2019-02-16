@@ -1,0 +1,1254 @@
+[00:04:06] <slew> you just lost the game, that is all
+[00:05:49] <Gruselbauer> I AM THE COOLEST DUDE IN THE UNIVERSES
+[00:06:16] CthulhuChaos (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) joined #420.
+[00:06:16] #420: mode change '+ao CthulhuChaos CthulhuChaos' by mIRC!Bot@Internet.Relay.Chat
+[00:13:12] Seeliac_ (~textual@P2PNET-E21ABE09.wp.shawcable.net) joined #420.
+[00:14:07] Nick change: Seeliac_ -> Guest29808
+[00:14:09] <Ganja> Another pwn for nickserv! We shall mourn the loss of Seeliac_
+[00:40:12] <StolenToast> check this devious shit out https://github.com/marcan/takeover.sh
+[00:43:26] <StolenToast> man look at this picture
+[00:43:30] <StolenToast> http://www.reuters.com/article/us-usa-trump-japan-firstladies-idUSKBN15P2SX?mod=related&channelName=politicsNews
+[00:43:38] <StolenToast> the one on the right looks like a professional of state
+[00:43:47] <StolenToast> the one on the left looks like a spoiled rich bich
+[00:46:15] <Grenwolth> the Slovenian Slut
+[00:47:50] <Gruselbauer> hahaha yeah you really have followed michelle obama up ...
+[00:48:03] <Gruselbauer> like a bad soap opera
+[00:52:38] <Gruselbauer> is nobody else using chrome/chromium here and ever had to install an extension not officially supported?
+[00:53:39] <Grenwolth> <-- firefox
+[00:53:50] <Grenwolth> <- Windows
+[00:53:52] <kkit> yes Gruselbauer, i think you can't anymore
+[00:54:00] <Grenwolth> <- haha
+[00:54:28] <kkit> there was a user setting for a while
+[00:54:36] <kkit> it might be a command line switch now, if it's still supported
+[00:54:42] <kkit> you miiiiiight have to build your own copy
+[00:54:50] <Gruselbauer> that sucks a lot
+[00:54:58] <Gruselbauer> k, so firefox for youtube now
+[00:55:06] <Gruselbauer> since i am not building chrome no way
+[00:55:27] <kkit> you can use greasemonkey still
+[00:55:30] <kkit> or userscripts or whatever
+[00:55:41] <Gruselbauer> yeah i wanna disable dash loading for youtube
+[00:55:48] <Gruselbauer> but it is being a bit of a dick
+[00:55:52] <Gruselbauer> it being chrome
+[01:04:46] <Resinator> i use a addon called magic actions for youtube
+[01:05:23] <Resinator> https://www.chromeactions.com/
+[01:05:43] <Resinator> not sure what dash loading is but it's a nice little addon
+[01:05:55] <Gruselbauer> if that can disable dash i wll use it
+[01:06:05] <CthulhuChaos> lego batman was a lot of fun
+[01:06:40] <CthulhuChaos> some pretty good bad guy guest appearances 
+[01:06:54] <Resinator> hwat is 'dash'
+[01:07:16] <Gruselbauer> dynamic adaptive streaming something html something
+[01:07:33] <Gruselbauer> Random and slew say it's responsible for youtube beng a nightmare instead of just a bad dream
+[01:07:51] <Resinator> interesting
+[01:07:54] <Gruselbauer> in my case. the thing where it does not pre-buffer anymore for longer than a few seconds
+[01:08:28] <Resinator> not sure about that but it has an option called 'speedbooster'
+[01:08:40] <Resinator> which the only description is 'better video preloading / buffering'
+[01:08:53] <azk> CthulhuChaos: nice
+[01:09:03] <Resinator> and the only extra option is 'play sound on completion'
+[01:09:27] <Resinator> i'd check it out, not sure about that feature but magic actions has changed my youtubing life
+[01:10:13] <CthulhuChaos> azk, i saw a review or two saying it was the best batman since dark knight and it is kinda hard to argue that
+[01:10:35] <azk> haha
+[01:15:19] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) left irc: Quit: Nettalk6 - www.ntalk.de
+[01:17:59] <Gruselbauer> sadly does not work Resinator but thx
+[01:18:16] <Resinator> :/
+[01:19:09] <Resinator> sucks
+[01:19:17] <Resinator> was hoping it'd be that simple
+[01:19:23] <Gruselbauer> yeah, generally my interwebs situation sucks a lot
+[01:19:27] <Gruselbauer> so, no worries
+[01:19:29] <Resinator> why
+[01:20:22] <Resinator> i guess i have to go buy some dog food
+[01:21:28] <Gruselbauer> or maybe it does work? let's see if the videos load entirely
+[01:22:50] <Gruselbauer> ha it does!
+[01:23:10] <Gruselbauer> Resinator: you win. thanks. awesome.
+[01:24:11] <Resinator> also it gives u a light switch in the top left
+[01:24:16] <Resinator> so u can turn youtube black
+[01:24:23] <Gruselbauer> CthulhuChaos: https://www.youtube.com/watch?v=H1VMaNBOIFs you probably know this
+[01:26:29] jeffsmith (~js@in.the.clouds) left irc: Input/output error
+[01:27:36] jeffsmith (~js@in.the.clouds) joined #420.
+[01:30:56] <slew> Gruselbauer: on firefox type about:config into the url bar and then search for a line called "media.mediasource.enabled"
+[01:31:27] <slew> if you disable it, youtube will only allow 360/480/720p at 30fps but will buffer the entire video
+[01:31:47] <slew> use ublock origin to stop ads loading entirely too for more speed
+[01:34:43] <deadmind> * Gruselbauer (~fuehrer@3reich.de) Quit (Ping timeout)
+[01:35:12] <kkit> what
+[01:35:18] <kkit> Gruselbauer is in the chat
+[01:35:51] <deadmind> it was an irc practical joke of sorts
+[01:36:02] <deadmind> it hath worketh not
+[01:40:31] <[_]> http://i.imgur.com/nObGcxT.jpg
+[01:42:27] <StolenToast> lol
+[01:43:15] <zen> kk just didn't read the mail deadmind i liked your jokes
+[01:51:36] Guest29808 (~textual@P2PNET-E21ABE09.wp.shawcable.net) left irc: Quit: Textual IRC Client: www.textualapp.com
+[01:53:30] <iamacarbeam> Monte are you here?
+[02:04:07] <StolenToast> Breaking News:
+[02:04:08] <StolenToast> Pentagon official confirms U.S. detected North Korea missile launch
+[02:06:50] Ace (~ikmnoijhn@the.answer.isnt.42.its.vodka) left irc: Quit: o/
+[02:06:51] Ace_ (~ikmnoijhn@EC73C163.6BB238CC.DB709A6E.IP) joined #420.
+[02:07:19] Nick change: Ace_ -> Ace
+[02:08:34] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[02:09:03] <StolenToast> haha I definitely saw a trump tweet that said "playef golf"
+[02:09:21] <StolenToast> and when i tried to click on it there was an error, and I reload the page and its fixed
+[02:10:43] <eigerzoom> StolenToast https://external-mia1-1.xx.fbcdn.net/safe_image.php?d=AQAtTn35PVyl5Clc&url=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FlKptz31PRRdrW%2Fgiphy.gif&ext=gif&_nc_hash=AQClMfCx_gliWOFr
+[02:11:05] <StolenToast> hehe
+[02:11:12] <StolenToast> there are some other good ones too
+[02:12:14] <eigerzoom> i wonder how many golf balls millania can fit in her fufa
+[02:13:18] <StolenToast> https://youtu.be/RFHq9IHs6d4
+[02:13:19] <ZZdawg> fill go figger it
+[02:15:48] <[_]> eigerzoom, seven tubes according to wikipedia.
+[02:16:00] <eigerzoom> lol
+[02:16:07] <[_]> oh wait, i read tennis balls
+[02:16:27] <eigerzoom> whats the comedian "i eat oreo's by the sleeve"
+[02:16:40] <eigerzoom> i love that guy
+[02:17:10] <eigerzoom> it might be chips ahoy
+[02:17:25] <StolenToast> sounds like something brian reegan or jim gaffigan would say
+[02:17:33] <eigerzoom> thats the guy lol
+[02:17:37] <eigerzoom> brian regan
+[02:17:42] <StolenToast> he's funny
+[02:17:52] <eigerzoom> best comedian
+[02:17:58] <StolenToast> he does the sun stare
+[02:20:05] <ZZdawg> eigerzoom  this guy? https://www.youtube.com/watch?v=0Qa-B7Sg_i4
+[02:20:14] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Ping timeout: 363 seconds
+[02:20:17] <eigerzoom> haha
+[02:20:24] <eigerzoom> fig newtons....
+[02:20:34] <ZZdawg> go listen silly
+[02:20:57] <eigerzoom> i'm glad he eats healthier snacks than oreos or chips ahoy
+[02:21:07] <eigerzoom> by the sleeve
+[02:21:15] <StolenToast> I'd look up fig newtons before making that claim
+[02:21:21] <eigerzoom> haha
+[02:21:29] <eigerzoom> true enuf
+[02:21:46] <eigerzoom> false newtons
+[02:21:54] <StolenToast> fib newtons
+[02:22:25] <eigerzoom> its not figs....its racoon feces :p
+[02:22:37] <eigerzoom> hence the seeds :p
+[02:22:40] <ZZdawg> i eat Fig Newtons but cant find a support group to help me quit
+[02:23:46] <kkit> hey ZZdawg 
+[02:23:52] <kkit> wasps fuck in them
+[02:23:54] <kkit> in figs
+[02:23:54] <ZZdawg> o/
+[02:23:56] <kkit> wasps fuck in figs
+[02:23:59] <kkit> i am not making this up
+[02:24:26] <ZZdawg> sounds good for you...  improve your immune system
+[02:24:30] <kkit> https://www.youtube.com/watch?v=yZCYoEdavDk
+[02:25:09] <StolenToast> did anyone click my link?
+[02:25:16] <StolenToast> with the submarines breaking through ice
+[02:26:33] <ZZdawg> oh hell no
+[02:27:23] <ZZdawg> i didnt see you post it ST
+[02:27:34] <kkit> 2 cookies
+[02:27:49] <StolenToast> they go scuba under teh ice, it's cool
+[02:27:56] <ZZdawg> who the hell eats 2 cookies?
+[02:28:23] <ZZdawg> i know StolenToast... its bigly
+[02:36:36] bbq_ (~bbq@P2PNET-C2F42C96.vc.shawcable.net) left irc: Quit: leaving
+[03:39:30] <eigerzoom> who the hell eats 2 fig newtons
+[03:47:26] embri0n (~embri0n@741FF9BA.B737BA11.424399B0.IP) left irc: Quit: Leaving...
+[03:48:44] embri0n (~embri0n@2AE76EC3.19FA68F7.424399B0.IP) joined #420.
+[03:48:44] #420: mode change '+v embri0n' by mIRC!Bot@Internet.Relay.Chat
+[03:57:43] <carefish>  asdasda
+[04:15:50] <ZZdawg> http://www.nydailynews.com/new-york/woman-dies-falling-escalator-world-trade-center-oculus-article-1.2969881
+[04:48:22] <kkit> who told me about solitaireica
+[04:48:28] <kkit> you've stolen my time
+[04:49:29] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[04:49:37] <ZZdawg> only if you paid for it
+[04:53:04] <kkit> which i did
+[04:53:18] <kkit> i now have 11 dollars of google funny money
+[04:54:20] KingBuzzed (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) joined #420.
+[04:54:20] #420: mode change '+ao KingBuzzed KingBuzzed' by mIRC!Bot@Internet.Relay.Chat
+[04:55:37] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Ping timeout: 367 seconds
+[04:56:25] <ZZdawg> i play with myself too sometimes but never pay for it
+[04:59:12] CthulhuChaos (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) left irc: Ping timeout: 361 seconds
+[05:07:03] conno (~conno@P2PNET-25161947.ks.ks.cox.net) left irc: Connection reset by peer
+[05:08:12] SOS_ (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) joined #420.
+[05:10:10] conno (~conno@P2PNET-25161947.ks.ks.cox.net) joined #420.
+[05:10:46] Nick change: SOS_ -> CthulhuChaos
+[05:10:53] #420: mode change '+ao CthulhuChaos CthulhuChaos' by mIRC!Bot@Internet.Relay.Chat
+[05:12:48] KingBuzzed (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) left irc: Ping timeout: 366 seconds
+[05:12:58] KingBuzzed (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) joined #420.
+[05:12:58] #420: mode change '+ao KingBuzzed KingBuzzed' by mIRC!Bot@Internet.Relay.Chat
+[05:13:07] <KingBuzzed> sorry
+[05:13:15] <KingBuzzed> my internet appears to be going apeshit
+[05:18:16] CthulhuChaos (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) left irc: Ping timeout: 364 seconds
+[05:22:39] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[05:28:47] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Ping timeout: 362 seconds
+[05:33:31] <Grenwolth> Fucking Burrtacos are tasty as hell. Why is it so hard for me to make them...
+[05:40:55] <Grenwolth> Let'sd get all potted up on weed!
+[05:41:31] <Grenwolth> TabulaRasa let's smoke a joint
+[05:41:51] <ZZdawg> drink 8 more beers...  will taste better then..
+[05:42:10] <Grenwolth> TabulaRasa do i look like tianaxcore to you?
+[05:47:52] <Random> thats confusing
+[05:50:49] <kkit> that's what happens when you put a flux capacitor in your hyundai
+[05:53:08] CthulhuChaos (~cthulhuch@P2PNET-27C755E3.wi.res.rr.com) joined #420.
+[05:53:08] #420: mode change '+ao CthulhuChaos CthulhuChaos' by mIRC!Bot@Internet.Relay.Chat
+[05:55:52] KingBuzzed (~cthulhuch@6AEAF61:87F47D48:F3B78FE4:IP) left irc: Ping timeout: 364 seconds
+[05:56:09] angusb (~turold@return.of.the.mack) joined #420.
+[05:57:17] <StolenToast> http://i.imgur.com/6cgc2O9.jpg
+[05:58:47] <embri0n> that must be cape town debonairs 
+[05:59:13] <embri0n> there's a debonairs a block away from my house 
+[05:59:35] <embri0n> they make really good pizza, a bit expensive but worth it 
+[06:01:35] <downboy> #w
+[06:05:49] embri0n (~embri0n@2AE76EC3.19FA68F7.424399B0.IP) left irc: Quit: Leaving...
+[06:09:14] <Grenwolth> starting to cool down
+[06:10:36] <ZZdawg> conditions...  smoke or haze always
+[06:36:41] <iamacarbeam> TabulaRasa, eat a dick!
+[06:37:08] Action: iamacarbeam strobes the headlights and blasts party beats 
+[06:44:40] <ZZdawg> i just got grumpy ole lady home fresh from whoever shit in her porrage.. 
+[06:45:06] <iamacarbeam> what
+[06:45:18] <ZZdawg> you wanna be a bish, i drink yer whiskey
+[06:45:29] <iamacarbeam> thats ok
+[06:45:33] <iamacarbeam> I didn't know I had whiskey 
+[06:45:34] <ZZdawg> lol
+[06:45:52] <ZZdawg> she doent either... i hid it
+[06:49:05] <ZZdawg> i guess im supposed to sit here in silence...  so be it
+[06:57:34] <KillerBong> http://www.npr.org/2017/02/11/514594316/amnesty-international-identifies-assads-policy-of-extermination
+[07:33:01] <ZZdawg> http://i.imgur.com/nk1NU3w.jpg
+[07:35:28] <ZZdawg> NSFW..  https://i.imgur.com/As1ev4a.jpg
+[07:55:52] <KillerBong> https://www.youtube.com/watch?v=P-meRgidvIM
+[08:50:04] <KillerBong> https://www.youtube.com/watch?v=RK5mCWbuH40
+[08:56:36] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[09:02:37] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Ping timeout: 361 seconds
+[10:36:53] ftorn (ftorn@P2PNET-8ABCF811.cable.starman.ee) joined #420.
+[10:39:39] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) joined #420.
+[10:40:11] ftorn (ftorn@P2PNET-8ABCF811.cable.starman.ee) left #420.
+[11:17:50] <downboy> https://www.facebook.com/kissyselloutpage/videos/10154899817484534/
+[11:43:13] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[11:48:24] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Broken pipe
+[12:36:59] Nijntje (~Miffy@P2PNET-347C7257.xs4all.nl) joined #420.
+[12:38:36] <Gruselbauer> Resinator: I owe you like a blowjob, and slew and Random too. Youtube pre-loading yay yay yay. 
+[12:40:40] Miffy (~Miffy@P2PNET-347C7257.xs4all.nl) left irc: Ping timeout: 368 seconds
+[12:40:59] <Gruselbauer> now i need that shit to work for pornhub or redtube, too
+[12:42:22] <zen> Gruselbauer are you that long legged chick from HR?
+[12:42:43] <Gruselbauer> :D
+[12:43:15] <Gruselbauer> na man i am chatting with the ex. like you know when you think about a woman and you just want to lick every square centimeter of that glorious body? that way.
+[12:43:41] <zen> haha
+[12:43:47] <zen> german perv <3
+[12:43:53] <zen> did the doom track work it's magic?
+[12:45:07] <Gruselbauer> probably. like we are still running the long lost friends routine but .... i am quite sure she knows what is up. bit of an autist - otherwise hell i would have NO chance with that babe - but gets it :S
+[12:45:25] <zen> wait i got one for ya :P
+[12:45:30] <zen> you know last emp?
+[12:46:03] <Gruselbauer> nop
+[12:46:09] <zen> https://www.youtube.com/watch?v=Asi1A_bLt04
+[12:46:16] <zen> it's so cheesy
+[12:46:22] <zen> und good
+[12:46:27] <zen> old underground gem
+[12:46:54] <Gruselbauer> buffering now
+[12:47:21] <zen> he made a classic called secret wars where he battles all his favorite rappers vs he's fav comic book characters
+[12:47:30] <zen> and he imitates all the other rappers one man
+[12:49:14] <zen> What if I had the, power to gather, all of my favorite emcees
+[12:49:15] <zen> With the illest comic book characters, and they became arch enemies?
+[12:49:15] <zen> Inconceivable? Unbelievable? Yet as wild as it seems
+[12:49:15] <zen> The Emperor and Stan Lee would coach the two opposing teams
+[12:49:43] <zen> it is in my picklist :D
+[12:49:49] <zen> in/on
+[12:50:27] <Gruselbauer> :D NICE
+[12:50:42] <zen> true underground classic
+[12:50:51] <zen> so much he had to make a version 2 :)
+[12:50:57] <zen> get palace of the pretender
+[12:53:07] <Gruselbauer> it has not even loaded all the preview screens
+[12:54:15] <zen> also Music, Magic, Myth
+[12:54:25] <zen> a great album
+[12:55:14] <Gruselbauer> you know what works really well wth this shitty webs? torrents
+[12:55:51] <zen> haha
+[12:57:33] <carefish> high folks
+[12:57:39] <carefish> wake'n'bake on a sunday
+[12:57:41] <carefish> good stuff
+[13:01:45] <Gruselbauer> in fucking deed
+[13:01:56] <Gruselbauer> i am gonna cut another plant down today, last of the herer family
+[13:11:59] <alpaca> hello
+[13:16:46] <slew> Gruselbauer: if you used my method it will work on all sites
+[13:17:28] <slew> there's also a chrome plugin that gets the location of all media and lets you download it but I forgot the name
+[13:17:38] <slew> it's the only thing that worked on mega
+[13:18:26] Action: slew presents a potato to alpaca
+[13:18:40] <alpaca> what kind is it
+[13:18:41] <alpaca> russet
+[13:18:43] <alpaca> fingerling
+[13:18:45] <alpaca> yukon
+[13:18:46] <alpaca> yellow gold
+[13:18:51] <alpaca> camera
+[13:19:28] <alpaca> SOLANUM TUBEROSUM
+[13:25:20] Nijntje (~Miffy@P2PNET-347C7257.xs4all.nl) left irc: Ping timeout: 368 seconds
+[13:25:59] <deadmind> christmick
+[13:26:05] <alpaca> hey deadmind
+[13:26:06] <deadmind> jentroid
+[13:26:29] <deadmind> morning alpaca :)
+[13:27:02] <alpaca> im fucked
+[13:28:46] metaBS (~metaBS@P2PNET-D4929B19.pithed.org) left irc: Ping timeout: 365 seconds
+[13:28:49] <deadmind> :D
+[13:28:52] <deadmind> by what
+[13:28:53] <deadmind> karma?
+[13:28:59] <deadmind> your fiancée? 
+[13:29:03] <deadmind> the IRS?
+[13:29:04] <alpaca> pretty much
+[13:29:07] <alpaca> karma
+[13:29:11] <alpaca> i drank too much deadmind
+[13:29:13] <alpaca> WHY DO I DO THIS
+[13:29:20] <deadmind> hahah
+[13:29:38] <alpaca> there are girls sleeping all over my house
+[13:29:54] <deadmind> uh-oh
+[13:29:58] <alpaca> you should be interested
+[13:30:00] <alpaca> they are pretty
+[13:30:02] <deadmind> did you get your alpaca on?
+[13:30:05] <alpaca> lol
+[13:30:05] <deadmind> :o
+[13:30:12] <alpaca> they are my best friends
+[13:30:15] <deadmind> i'm feeling like there is some kind of catch coming
+[13:30:19] <alpaca> there it was
+[13:30:20] <alpaca> lol
+[13:30:28] <alpaca> known them for like 15 years
+[13:30:34] <deadmind> your best friends are all girls?
+[13:30:37] <alpaca> nah
+[13:30:41] <alpaca> but some of them are!
+[13:30:58] <alpaca> actually, the two girls staying here right now
+[13:30:58] <alpaca> and i
+[13:31:01] <alpaca> all have the same tattoo
+[13:31:01] <deadmind> that explains a lot 
+[13:31:03] <deadmind> :D
+[13:31:05] <alpaca> for a friend of ours that passed in 2010
+[13:31:07] <slew> its a russet
+[13:31:12] <alpaca> slew: god dammit
+[13:31:15] <alpaca> literally worst potato
+[13:31:23] <slew> is it? i'm not a potato expert
+[13:31:27] <alpaca> yeah
+[13:31:27] <slew> whats the best type
+[13:31:34] <alpaca> idk i am partial to red skin and fingerling potats
+[13:31:45] <slew> red skins taste weird though don't they
+[13:31:49] <alpaca> eh idk
+[13:31:55] <alpaca> they are great in mashed p's
+[13:31:56] <slew> whats sweet potato
+[13:32:03] <alpaca> delicious
+[13:32:05] <alpaca> is what it is
+[13:32:06] <deadmind> alpaca: can i come over though? :D
+[13:32:10] <slew> no as in is it red skin 
+[13:32:13] <alpaca> deadmind: illl allow it
+[13:32:16] <alpaca> slew: nah
+[13:32:27] <alpaca> skin just gives texture imo
+[13:32:42] <alpaca> ,my taste buds are not the most accurate devices in the world though
+[13:32:55] <slew> you gotta ask a dog what it thinks of potato
+[13:33:25] <slew> ask it to rank them on a scale of bark to bark bark bark bark bark
+[13:33:37] <alpaca> o slew you are so silly
+[13:34:07] Action: deadmind gets on a plane with a bunch of aphrodisiacs, hot pants and backup dildos to visit alpaca and his harem
+[13:34:21] <slew> i've devised a system in which the dog could accurately convey its feelings about potato and i'm called silly
+[13:34:28] <slew> well we'll see who's laughing when it works
+[13:35:40] <slew> heh i blazed through this anime without appreciating they released 2 episodes every 2 months
+[13:35:48] <slew> must've sucked to watch it in real time
+[13:39:10] <alpaca> damn
+[13:39:13] <alpaca> i should watch anime
+[13:50:41] <Gruselbauer> i should too, havent for years tho
+[13:53:58] <alpaca> i hate it
+[13:55:43] <alpaca> i
+[13:55:45] <alpaca> should
+[13:55:46] <alpaca> make
+[13:55:47] <alpaca> beignets
+[13:56:18] <Gruselbauer> all animu or just the bad ones?
+[13:56:24] <Gruselbauer> like, i hate 95%+
+[13:56:27] <Gruselbauer> but some is really great
+[13:56:28] <alpaca> well
+[13:56:34] <alpaca> when i was younger i wrote some code for an anime fan site
+[13:56:40] <alpaca> so i saw tons of shitty cowboy bebop fanime
+[13:56:42] <Gruselbauer> :D
+[13:56:46] <alpaca> and i just fucking hate it
+[13:56:48] <Gruselbauer> :((((
+[13:56:52] <Gruselbauer> k, that is shit
+[13:56:58] <Gruselbauer> tbh film > series in that case
+[13:57:20] <Gruselbauer> why does my kekbook not see my phone when i connect it via usb?
+[13:57:30] <Gruselbauer> do i need an exfat or something driver?
+[13:57:36] <Gruselbauer> WHAT IS IT THAT IS UP THERE?
+[13:59:09] <alpaca> lol
+[13:59:15] <alpaca> man
+[13:59:20] <alpaca> the trials of you and your internet
+[13:59:28] <alpaca> i wish i could just give you some of my megabits
+[13:59:43] <Gruselbauer> lol yeah that'd be great if i could take megabit donations
+[13:59:57] <Gruselbauer> like all i dream about now is a stable 5-10mbit downstream
+[14:00:01] <Gruselbauer> not like big dreams
+[14:00:08] <Gruselbauer> not "fibre nao plz lol"
+[14:00:09] <Gruselbauer> nooo
+[14:00:15] <Gruselbauer> 5-10mbit so I can watch SD youtube
+[14:00:19] <Gruselbauer> :/
+[14:00:38] <Gruselbauer> loooooooooooosing all touch losing alll touch building a desert *sings loudly*
+[14:01:04] <alpaca> lol
+[14:01:04] <alpaca> i have 50
+[14:01:05] <alpaca> :(
+[14:01:17] <Gruselbauer> also i have no scissors in this house that are no encrusted weed trichomes
+[14:01:44] Action: slew hands Gruselbauer two cups with 10km of string between them
+[14:02:00] <deadmind> lol
+[14:02:24] <deadmind> outside of here in the troll cabin, which is literally outside of civilization, i've never had a connection less than 120mbps
+[14:03:08] <alpaca> lol
+[14:03:16] <alpaca> i am gonna upgrade to 100 soon
+[14:03:21] <alpaca> but i dont need it
+[14:03:53] Miffy (~Miffy@P2PNET-347C7257.xs4all.nl) joined #420.
+[14:04:27] <Gruselbauer> i have a nominal 25mbps
+[14:04:45] <Gruselbauer> what's really annoying is that i get that sometimes in the night
+[14:04:57] <Gruselbauer> but high use times i barely get a 50th of that
+[14:05:25] <Gruselbauer> two different phones do not mount on the mac. what is up
+[14:07:25] <deadmind> are both of them $800+ and made by apple?
+[14:10:35] <Gruselbauer> nope, android and blackberry
+[14:11:30] <deadmind> i see two problems here
+[14:11:36] <deadmind> :D
+[14:11:51] <deadmind> </stereotypicalAntiAppleJerk>
+[14:12:30] <deadmind> on the pc side, i've only ever had that issue with usb hardware problems. crappy usb hub or underpowered psu
+[14:12:38] <deadmind> but i suspect this doesn't help you a lot
+[14:31:32] <zen> unexpected guests for coffee and joints
+[14:31:53] <zen> sun is shiiiining 
+[14:51:55] <Gruselbauer> zen: last emp is fantastic
+[14:53:32] <Gruselbauer> https://www.youtube.com/watch?v=hrQmgmG1MGw @ zen
+[15:04:36] <Gruselbauer> https://www.youtube.com/watch?v=--8IBzC4cDs newer one, less funny lyrics
+[15:07:06] embri0n (~embri0n@AA0DF1BB.D034C6A1.424399B0.IP) joined #420.
+[15:07:06] #420: mode change '+v embri0n' by mIRC!Bot@Internet.Relay.Chat
+[15:15:21] <Gruselbauer> i am soo high. worked out, had breakfast. what are you guys doing on this fine sunny sunday?
+[15:17:08] <Grenwolth> Fapping
+[15:17:43] <Grenwolth> OK. Finished.
+[15:19:00] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[15:19:40] <Gruselbauer> Grenwolth: you are seeing it as more of a necessary evil to yank your chain, i assume? :L
+[15:20:39] <kafitz> well its not going to yank itself
+[15:22:49] Action: zen throws Da Beatminerz Mafia Don (Feat. Last Emperor) at Gruselbauer
+[15:23:50] <zen> trimm a bud to this one https://www.youtube.com/watch?v=JImJJQjE9yg
+[15:24:27] <zen> and this one https://www.youtube.com/watch?v=qJOR2uv-7-I
+[15:25:10] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Ping timeout: 365 seconds
+[15:25:51] <zen> the Jim morrison of Broadcasting live from Ice Station Zebra
+[15:25:51] <zen> I break over beats made to blow out your speaker
+[15:25:51] <zen> The Jim Morrison of hip hop nice to meet ya
+[15:26:04] <zen> lol cp fail
+[15:26:19] <zen> :D
+[15:27:05] <zen> https://www.youtube.com/watch?v=H8LzpkV5qSs
+[15:27:22] <zen> Gruselbauer: so much dopeness for you
+[15:27:32] <zen> i can't helt myself :D
+[15:27:39] <zen> help
+[15:31:47] <Gruselbauer> with rzzzzaaaa
+[15:33:54] <zen> yea man he saved he's life once
+[15:34:54] <zen> Decrease the brain battery, more gamma to the chest cavity
+[15:34:55] <zen> Put the DNA code of every Pharoah in his anatomy
+[15:35:08] <zen> classic rza shizzl ma nizzl :)
+[15:36:04] <Gruselbauer> oh god you're one of those people i would pay to spin records all evening while we get really high
+[15:36:59] <zen> tiger trail 
+[15:37:21] <zen> that one is pure niceness
+[15:37:41] <zen> i feel like spamming tracks on and on Gruselbauer hehe:)
+[15:37:58] <Gruselbauer> problem being i can only listen to them with quite some delay
+[15:38:44] <Gruselbauer> so for the time being i have have to rely on my own records and i have lent the majority of my music collection to a friend in october and he's being a slow son of a bitch returning it
+[15:39:08] <Gruselbauer> so instead of 3-4tb of mp3s and flacs, i have whatever torrents i can finish at night with zero hope of ever getting the pth ratio back 
+[15:39:43] <Gruselbauer> though it gives me something to bitch about
+[15:39:51] <zen> haha
+[15:40:02] <zen> u are leet h4x0r
+[15:40:05] <zen> make a seed box
+[15:42:49] <Gruselbauer> had one. locked myself out of my online banking. forgot to pay it.
+[15:43:08] <Gruselbauer> not really rocking life financially atm. but shit, i got more weed now. let others worry.
+[15:43:57] <Gruselbauer> right now i am listening to the pixies anyways
+[15:44:08] <zen> hehe yar i ment just hax one
+[15:44:27] <Gruselbauer> lol you overestimate my abilities by a ton
+[15:44:57] <Gruselbauer> i mean, i hope seedbox services can't get pwned by some dude who starts kali and does what some manual tells him too?
+[15:45:08] <zen> run makeseedbox.exe hehe
+[15:45:39] <Gruselbauer> now i gotta install wine too? :(
+[15:45:56] <zen> :D
+[15:55:23] <Gruselbauer> anyway pixies & chai for now, and, obviously, a fresh batch of weed in the vape and a bong hit now
+[15:55:41] <Gruselbauer> because why the fuck not :D
+[15:57:32] <Gruselbauer> oh and maybe ice cream
+[15:59:00] <Gruselbauer> thisssss aint no holiday but it always turns out this way
+[15:59:09] <Gruselbauer> *airguitaring intensifies*
+[16:00:28] <Gruselbauer> lol my boss just went by my window smoking something that looked like a self rolled cig but she smokes factory made
+[16:00:37] <Gruselbauer> country life in germany
+[16:00:43] <Gruselbauer> true hillbilly krauts
+[16:05:04] <quazy> honeeeys im hoooome
+[16:05:20] <Gruselbauer> HERR QUAZY GUTEN TAG
+[16:05:49] <quazy> guten morgen herr gru. how ist you
+[16:06:58] <Gruselbauer> sehr gut!
+[16:07:27] <Gruselbauer> i will now commence a walk like the führer used to take, through the snow and with music on my ears. 
+[16:08:01] <Gruselbauer> the führer had the same mp3 player as me, too
+[16:08:07] <Gruselbauer> in his ufo
+[16:08:18] <slew> sieben sieben ayy liu liu
+[16:08:41] <slew> https://www.youtube.com/watch?v=hfjHJneVonE
+[16:09:31] <slew> tanzen! ich liebe
+[16:10:02] <Gruselbauer> i dancing love too
+[16:10:26] <slew> its kinda strange him singing in both german and english for ukraines entry but whatever, awesome song
+[16:10:55] <Gruselbauer> mhhh this is excellent tea. i wanna say i am nicely, thoroughly baked and almost ready to pack it outside for a walk
+[16:12:25] <alpaca> i have an internet man crush on Gruselbauer :|\
+[16:14:08] <Gruselbauer> alpaca: totes the same here
+[16:14:13] <Gruselbauer> really all you guys
+[16:14:25] <alpaca> yeah
+[16:14:30] <Gruselbauer> <- manwhore
+[16:14:33] <alpaca> i said this yesterday but
+[16:14:40] <alpaca> #420 has been on an upswing last couple years
+[16:14:52] <alpaca> it sucked for a couple years
+[16:14:53] <alpaca> dsyrup era
+[16:14:54] <alpaca> lol
+[16:15:03] <Gruselbauer> was not here much then afaik
+[16:15:07] <alpaca> yeah 
+[16:15:28] <alpaca> that was shortly after i "recovered" from opiates
+[16:15:28] <alpaca> :/
+[16:15:34] <Gruselbauer> but yeah it's fun here atm, really fun
+[16:15:38] <alpaca> agreed
+[16:15:40] <alpaca> #420++
+[16:15:43] <Gruselbauer> ouch
+[16:15:47] <alpaca> :|
+[16:16:00] <alpaca> i know you know what im talking about
+[16:16:12] <Gruselbauer> yeah :/
+[16:16:28] <alpaca> now i just replace it with alcohol and marijuana D:
+[16:16:31] <alpaca> :D*
+[16:16:31] <Gruselbauer> i am so happy with doing just kratom & weed now for "medicines"
+[16:16:40] <alpaca> damn you get kratom regular?
+[16:16:49] <alpaca> or am i thinking ibocaine lol
+[16:17:01] <Gruselbauer> ibogaine probably
+[16:17:04] <alpaca> yes
+[16:17:04] <alpaca> that
+[16:17:08] <Gruselbauer> kratom is like the weakest opioid you ever had
+[16:17:16] <alpaca> oh
+[16:17:16] <Gruselbauer> some plant from the tropics
+[16:17:21] <Gruselbauer> "mytraginine"
+[16:17:27] <alpaca> interesting
+[16:17:40] <alpaca> i cut my finger and they gave me animal opioids
+[16:17:40] <alpaca> lol
+[16:17:40] <Gruselbauer> you can't od because it's yucky plant shit and you would never be able to eat enough, kinda the weed deal
+[16:17:45] <alpaca> ah yeah
+[16:17:52] <Gruselbauer> animals get some _nice_ shit
+[16:17:57] <alpaca> youd have to be crushed by the sheer weight to die
+[16:17:57] <alpaca> lol
+[16:17:59] <Gruselbauer> one of my best friends is a vet
+[16:18:00] <alpaca> meh
+[16:18:17] <Gruselbauer> slowly working up to getting him to score me some ket ^^
+[16:18:20] <alpaca> tramadol 
+[16:18:21] <alpaca> lol
+[16:18:28] <alpaca> ket is fun though
+[16:18:35] <alpaca> sorta
+[16:18:35] <alpaca> lol
+[16:18:40] <Gruselbauer> ah, yeah that is pretty common here for cuts and stuff
+[16:18:40] <alpaca> idk, i dont do any of that shit anymore
+[16:18:44] <alpaca> i just smoke weed and get drunk
+[16:18:46] <alpaca> good enough for me
+[16:18:51] <alpaca> also sometimes we do poppers :S
+[16:18:54] <Gruselbauer> i do it on weekends like once to thrice a year
+[16:18:59] <alpaca> i kind of love poppers
+[16:19:00] <alpaca> lol
+[16:19:01] <alpaca> fucking
+[16:19:03] <alpaca> amyl nitrates
+[16:19:29] <Gruselbauer> but yeah it's not about being sober as in totally clear for me, just being in control of my use
+[16:19:45] <alpaca> https://en.wikipedia.org/wiki/Alkyl_nitrites
+[16:19:49] <alpaca> alkyl, not amyl
+[16:19:50] <alpaca> my b
+[16:19:59] <Gruselbauer> the absolute "i need help" line would be any iv use
+[16:20:00] <alpaca> nitrites*
+[16:20:02] <alpaca> wow i got both words wrong
+[16:20:08] <Gruselbauer> yeah poppers is fun
+[16:20:11] <alpaca> indeed
+[16:20:15] <Gruselbauer> i totally though amyl nitrates was right
+[16:21:25] <Gruselbauer> k, vape hit and outside i go
+[16:21:29] <Gruselbauer> before the sun goes down
+[16:24:23] <alpaca> http://i.imgur.com/dMuC6XJ.png
+[16:27:12] asteidl (~asteidl@P2PNET-E455349B.hsd1.fl.comcast.net) joined #420.
+[16:30:37] <StolenToast> >
+[16:30:39] <StolenToast> "The president's powers here are beyond question," White House adviser Stephen Miller said
+[16:30:49] <StolenToast> literally "How dare you question him!!!"
+[16:45:33] <Grenwolth> Miller = Bannon
+[16:49:20] <laama> http://i.imgur.com/A9Y1fJq.jpg
+[16:51:31] <carefish> fuuuuuck
+[16:51:47] <carefish> i slept amazingly 
+[16:54:57] <carefish> StolenToast: i feel you might get an aneurysm if you keep getting upset by a manchild 
+[16:57:32] GossipGirl (GossipGirl@P2PNET-25A1C674.nat.lancs.ac.uk) joined #420.
+[16:57:46] #420: mode change '+v GossipGirl' by mIRC!Bot@Internet.Relay.Chat
+[16:57:52] <GossipGirl> Hiiii all
+[16:57:56] <GossipGirl> how was the bong cast
+[16:58:07] <alpaca> ITS ONE WORD GOSSIP GIRL
+[16:58:15] <GossipGirl> sorry i havent been in in a while, im waaaay too busy
+[16:58:17] <alpaca> haha :P
+[16:58:19] <GossipGirl> AAAAAHH I AM SORRY!!
+[16:59:02] <GossipGirl> hoow is everyone... DID PEOPLE LIKE MY PICK
+[16:59:36] <laama> sup alpaca
+[16:59:45] <alpaca> t_acko: http://i.imgur.com/dMuC6XJ.png
+[16:59:52] <alpaca> oops i did not mean to attribute it to t_acko again
+[16:59:54] <alpaca> sry pal
+[17:01:33] <carefish> <3
+[17:01:43] <alpaca> hi cf
+[17:02:17] <carefish> sup paca
+[17:10:02] <alpaca> hi cf
+[17:12:06] <deadmind> !fakewords 19
+[17:12:55] <GossipGirl> the bongcast seems cool... who hosted this one? I like their voice.
+[17:13:37] <alpaca> kkit: 
+[17:14:05] <GossipGirl> coooooooooool :3
+[17:14:22] metaBS (~metaBS@P2PNET-D4929B19.pithed.org) joined #420.
+[17:14:28] <deadmind> !fakewords 19
+[17:14:33] <metaBS> abtro, Tockium, exeuse, nicktely, drumstake, tvernov, innalacu, medititions, biggestream, builaritive, nooooooooooooooooooooooooo, growd, readyy, rarvious, votookols, pory, spointed, laptowing, Bara
+[17:15:35] <GossipGirl> I'm 'nooooooooooooooooooooooooo'
+[17:19:05] Action: ZZdawg stares blankly
+[17:21:10] <deadmind> GossipGirl, it's nice to see you become indoctrinated with #420 rituals so quick :P
+[17:21:32] <deadmind> the bongcast is a habit we collectively can't break for almost 10 years now
+[17:21:41] <Grenwolth> Post a rack pic so we can remember who you  are.
+[17:21:56] <GossipGirl> praise be to the church of #420. And my tits are fair small, soz
+[17:22:09] Action: deadmind shaves chest for the Grenwolth rack pic
+[17:22:22] <GossipGirl> #ittybittytittycomittee
+[17:22:27] <Grenwolth> I posted mine
+[17:22:28] <deadmind> ok now i'm interested too
+[17:22:30] <deadmind> damn
+[17:22:33] <deadmind> don't tease
+[17:22:38] Action: deadmind lives & dies for tiny tits
+[17:22:39] <deadmind> :D
+[17:23:06] <deadmind> Grenwolth, looks like i was fortunate again because i wasn't around :D
+[17:23:14] <rscott> don't be weird
+[17:24:41] Action: deadmind un-weirds #420
+[17:25:07] <Gruselbauer> yo GossipGirl 
+[17:25:14] <Gruselbauer> long zeit kein sehen
+[17:25:14] <GossipGirl> eyaa
+[17:25:32] <GossipGirl> don't know what to say to the boob conversation
+[17:25:40] <GossipGirl> perhaps when im drunk enough
+[17:26:05] <Grenwolth> Hmm...   Can't find it.
+[17:27:05] <Grenwolth> Still have this: http://www.grenwolth.com/Pictures/regrets.jpg
+[17:27:35] <deadmind> well GossipGirl, i can reciprocate with my sexy chest https://colorex.co.nz/wp-content/uploads/2016/03/LaminatedPlank_1024x1024.jpg
+[17:27:47] <GossipGirl> hot
+[17:28:08] Action: deadmind flexes his well-formed splinters
+[17:29:01] <GossipGirl> Stephen Lynch - 3 balloons
+[17:29:05] <GossipGirl> who the fuck picked this
+[17:29:22] <GossipGirl> im creased in the library and people are looking at me
+[17:29:36] <deadmind> lol it was a bit of a weirdcast
+[17:30:31] <deadmind> can't find a pick like that on the bongcast page though
+[17:30:37] <deadmind> so it was probably kkit's own doing :D
+[17:31:56] <GossipGirl> ive just passed my headphones to my bf
+[17:32:02] Resinator (rez0r@3605B676.D93FCED9.F0B4B6F7.IP) left irc: Connection reset by peer
+[17:32:02] <GossipGirl> so this should be fin
+[17:32:05] <GossipGirl> *fun
+[17:34:15] <Grenwolth> cast was last week
+[17:34:20] Resinator (rez0r@3605B676.D93FCED9.F0B4B6F7.IP) joined #420.
+[17:34:20] #420: mode change '+v Resinator' by mIRC!Bot@Internet.Relay.Chat
+[17:35:46] <iamacarbeam> omg hi GossipGirl
+[17:36:24] <GossipGirl> ello xo
+[17:36:59] <kkit> GossipGirl, that's the precast
+[17:37:07] <GossipGirl> oooooh ic ic
+[17:37:34] <kkit> do you need a guatemalan child?
+[17:37:37] <GossipGirl> oh well my boyfriend and i really enjoyed 3 balloons
+[17:37:50] <kkit> i bet
+[17:37:54] <kkit> :o
+[17:39:14] <Gruselbauer> :O
+[17:39:33] <GossipGirl> i wish, he isnt into drugs unfortunately and at this point is fed up of me ordering codeine to his flat
+[17:40:19] <GossipGirl> god im sleepy, i have been doing this report for FAR too long
+[17:40:54] <Random> TPS?
+[17:41:34] <GossipGirl> tps?
+[17:46:00] Action: zen gets deadmind a boobjob
+[17:46:06] <zen> yoyo GossipGirl 
+[17:46:14] <GossipGirl> eya
+[17:46:24] <zen> don't do drugs
+[17:46:28] <zen> give them to me
+[17:46:35] <GossipGirl> NO ALL MINE
+[17:46:38] <GossipGirl> also
+[17:47:31] <GossipGirl> this asian dude beside me keeps looking at me and i wish he'd stop
+[17:47:31] Last message repeated 1 time(s).
+[17:47:31] <GossipGirl> this asian dude beside me keeps looking at me and its making me self concious... like he isnt glancing, he keeps turning his head like 90 degrees to fucking look at me
+[17:47:35] <GossipGirl> oops
+[17:47:40] <GossipGirl> idk what the fuck happened there
+[17:47:50] <kkit> start picking your nose
+[17:47:59] <kkit> give him something to look at
+[17:48:24] <deadmind> have you tried, y'know, looking him in the eye? :D
+[17:48:40] <GossipGirl> i might just meet his gaze next time and stare him down... idk mind people looking at others bc sometimes u get that natural curiosity about someone but when i do it im subtle
+[17:49:13] <GossipGirl> i literally cant write english today
+[17:49:30] <GossipGirl> i dont know how this report is coming out coherent
+[17:49:54] <kkit> try writing it in french instead
+[17:50:12] <GossipGirl> lol he fucking looked down that time
+[17:51:40] <carefish> GossipGirl: all you gotta do is the overly attached girlfriend look
+[17:52:06] <GossipGirl> i have my pen knife next to me
+[17:52:17] <carefish> https://i.ytimg.com/vi/naVzEdCb_Ao/hqdefault.jpg
+[17:52:20] <GossipGirl> i could look in the eyes whilst playing with it
+[17:52:23] <Gruselbauer> https://www.youtube.com/watch?v=n9E9HDOHexc&index=6&list=PLbX82s7lme5zlx8m5bSw__FBqGXD2YBch <- listening to that right now, no idea if anyone here likes breakcore
+[17:52:23] <GossipGirl> anyway
+[17:52:23] <GossipGirl> brb
+[17:52:28] <GossipGirl> also kkit
+[17:52:33] <GossipGirl> codeine
+[17:52:34] <GossipGirl> nice x
+[17:52:34] <zen> that is so boring carefish.... tease him. starting playing with ur hair n shit:P
+[17:52:54] <alpaca> wat
+[17:52:54] <kkit> what
+[17:53:00] <kkit> i don't remember the playlist GossipGirl 
+[17:53:01] <kkit> :D
+[17:53:01] <Grenwolth> STEAMER trunk
+[17:53:10] <carefish> zen: that look... + teasing
+[17:53:26] GossipGirl (GossipGirl@P2PNET-25A1C674.nat.lancs.ac.uk) left irc: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[17:53:27] <zen> even more confusing carefish lol
+[17:53:31] <carefish> yeah
+[17:53:33] <carefish> exactly
+[17:53:46] <carefish> most guys would pick up on the bat shit crazy stuff
+[17:54:03] <carefish> ..the ones who don't will probably get to meet gossipgirl's pen knife
+[17:54:12] <carefish> git shank'd bruv
+[17:54:43] <carefish> different topic
+[17:54:49] <carefish> who's rolling up/preppin dem bongs
+[17:56:26] <deadmind> i already have it all ground up & mixed, so i miht even stand a chance against your two-handed dutch speedrolling
+[17:57:52] <zen> u hvae weed deadmind ?
+[17:57:53] <zen> :D
+[17:58:06] <zen> what has the world come to
+[17:58:31] mda1 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Ping timeout: 364 seconds
+[17:58:38] <zen> how's your scarhand?
+[17:59:41] <deadmind> :D
+[17:59:49] <deadmind> it's medium-crap weed, but yes, i haz it
+[18:00:01] <deadmind> finally got the stitches removed
+[18:00:07] <zen> wonderful
+[18:00:07] <deadmind> and i no longer need a dressing
+[18:00:09] <zen> celebrate
+[18:00:14] <deadmind> will do 
+[18:00:15] <deadmind> :D
+[18:00:26] <deadmind> i still can't really use it but i'm no longer hyper-paranoid about it
+[18:00:30] <zen> rub a lille salt and lime juice in it
+[18:00:31] <deadmind> now that i can see the scar and shit
+[18:00:35] <deadmind> yeah that soundsgreat
+[18:00:36] <deadmind> :D
+[18:00:39] <zen> for the fresh feeling of joy
+[18:00:40] <zen> :)
+[18:01:03] <Gruselbauer> can somebody google me the "shit's on fire yo" meme in a funny iteration?
+[18:01:10] Action: lizarwizarblizzard sets zen on fire
+[18:01:15] <alpaca> http://assets.nydailynews.com/polopoly_fs/1.2970314.1486894661!/img/httpImage/image.jpg_gen/derivatives/article_1200/article-kkk-1-0211.jpg
+[18:01:39] <deadmind> http://i.imgur.com/6NfmQ.jpg
+[18:01:40] <deadmind> ?
+[18:01:46] mda1 (~mda1@23E41FFF.4ADA6089.E729B205.IP) joined #420.
+[18:01:47] <kkit> that's the dead dude right alpaca
+[18:01:48] <Gruselbauer> http://i.imgur.com/6NfmQ.jpg yes
+[18:01:50] <Gruselbauer> thanks
+[18:01:51] <alpaca> kkit: yeha
+[18:01:52] <kkit> yeah
+[18:01:54] <alpaca> kkit: :/
+[18:02:01] <kkit> he said the kkk isn't a racist organization, it's a christian one
+[18:02:04] <alpaca> we look like stupid fucking liberals
+[18:02:05] <alpaca> tbh
+[18:02:15] <alpaca> look how photoshopped that picture is
+[18:02:16] <alpaca> lol
+[18:02:17] Action: zen bakes lizarwizarblizzard with chestnuts salt and butter
+[18:02:32] <kkit> obviously it's photoshopped
+[18:02:42] <Gruselbauer> alpaca: where exactly are you from btw? i know i always make you canadian but you're just close to some of the canucks right?
+[18:02:42] <kkit> i just saw the name
+[18:02:45] <kkit> i don't know what he looks like
+[18:02:45] Nick change: mda1 -> Guest53008
+[18:02:47] <Ganja> Another pwn for nickserv! We shall mourn the loss of mda1
+[18:02:49] Action: lizarwizarblizzard escapes her carcas and eats it
+[18:02:50] <lizarwizarblizzard> weee
+[18:02:53] <alpaca> Gruselbauer: haha yeah i am not canadian
+[18:02:56] <alpaca> ohio D:
+[18:02:59] <Gruselbauer> lizarwizarblizzard: aloha!
+[18:03:01] <alpaca> i am like 2 hours south of canada
+[18:03:07] <Gruselbauer> Ohio goodbyo
+[18:03:07] GossipGirl (GossipGirl@P2PNET-44C4B569.nat.lancs.ac.uk) joined #420.
+[18:03:09] <kkit> i mean you did link a photo from a tabloid
+[18:03:16] <alpaca> kkit: well
+[18:03:17] <alpaca> daily mail
+[18:03:18] <alpaca> so
+[18:03:19] <alpaca> basically
+[18:03:19] <Gruselbauer> ah k 2h is not that much
+[18:03:20] <kkit> ny daily news does some good reporting, but some of it is trash
+[18:03:25] <kkit> sort of a mixed bag
+[18:03:28] #420: mode change '+v GossipGirl' by mIRC!Bot@Internet.Relay.Chat
+[18:03:31] <alpaca> like huffpo
+[18:03:33] <alpaca> liberal bullshit
+[18:03:33] <GossipGirl> hi again
+[18:03:34] <alpaca> :D
+[18:03:44] <alpaca> god i hate liberals
+[18:03:54] <alpaca> i hate myself too
+[18:03:56] <GossipGirl> we moved to a warmer, quieter and less creepy computer lab
+[18:03:58] <alpaca> and everyone else
+[18:06:22] <carefish> hey 
+[18:06:23] <carefish> sup
+[18:06:23] <carefish> <3
+[18:06:41] <carefish> i am high, last time for a while.. college's gonna get back on track lawl
+[18:09:22] <GossipGirl> lol ive been getting high like once every 2 weeks or so
+[18:09:29] <GossipGirl> uni is killer
+[18:12:04] <laama> http://i.imgur.com/malR2dY.mp4
+[18:15:43] <carefish> jesus
+[18:15:56] <slew> it would not be so bad if he missed
+[18:16:04] <carefish> hehe, this past week was retakes GossipGirl. i had no retakes.
+[18:16:04] <slew> no great loss
+[18:16:14] <carefish> so i had a week off 
+[18:16:23] <slew> did you pass, GossipGirl
+[18:16:30] <carefish> it would be a great loss slew, so many unsucked dicks
+[18:16:38] <slew> so many unsucked bananas
+[18:18:07] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) left irc: Quit: Nettalk6 - www.ntalk.de
+[18:18:34] <iamacarbeam> https://imgur.com/BHPdzPk
+[18:18:57] <slew> black mirrors "the waldo moment" is still relevant today
+[18:24:45] <Gruselbauer> alpaca: i hate liberals too, poor man's socialism
+[18:25:24] <Gruselbauer> your liberals are all cucks, too. my altright persona says. but seriously, seeing a guy like burnie fail with what i think are mainstream left ideas for being too much of a pinko... holy fuck
+[18:27:53] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Ping timeout: 363 seconds
+[18:29:11] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) joined #420.
+[18:29:35] <alpaca> lol
+[18:29:39] <alpaca> https://www.youtube.com/watch?v=qNbwQenDpWI
+[18:29:40] <lizarwizarblizzard> Gruselbauer o/ how do you do?
+[18:29:47] <rscott> liberals are the worst
+[18:30:08] <rscott> all the handwringing about whether or not it's ok to punch fascists in the face
+[18:30:16] <Gruselbauer> lizarwizarblizzard: i am permablazed
+[18:30:24] <lizarwizarblizzard> Gruselbauer neaat
+[18:30:32] <lizarwizarblizzard> Gruselbauer we are late with deadmind :]
+[18:30:46] <oorza> alpaca SNL has been fucking AMAZING this year
+[18:30:48] <lizarwizarblizzard> Gruselbauer I'll send you a list btw, if I do not forget it
+[18:30:51] <Gruselbauer> at this time of the year, the gruselbauer goes into pot-fueled hibernation and spends his time taking long walks, eating good food, reading books and setting fire to human beings
+[18:30:54] <oorza> like this is the strongest year since tina fey left _at least_
+[18:30:56] <GossipGirl> its always okay to punch a fascist in the face
+[18:31:04] <oorza> it just keeps getting better and better
+[18:31:08] <oorza> there's only like 1 or 2 bad sketches a show
+[18:31:10] <lizarwizarblizzard> Gruselbauer aw, can I join?
+[18:31:14] <oorza> and there hasn't been a solidly terrible episode yet
+[18:31:18] <alpaca> oorza: its almost like theres a direct correlation with shitty politicians
+[18:31:18] <alpaca> lol
+[18:31:20] <Gruselbauer> lizarwizarblizzard: totally
+[18:31:21] Action: lizarwizarblizzard likes Gruselbauer occupation very much
+[18:31:24] <oorza> lol yes
+[18:31:36] <oorza> but shit like that sketch you linked alpaca 
+[18:31:38] <lizarwizarblizzard> \o/
+[18:31:40] <oorza> they have that kind of wit now
+[18:31:42] <Gruselbauer> especially the setting people on fire right?
+[18:31:56] <oorza> whatsisname 
+[18:31:57] <oorza> colin jost
+[18:31:59] <oorza> the new head writer
+[18:32:02] <oorza> is legit 
+[18:32:03] Action: lizarwizarblizzard rolls a joint, packs up some good literature and readies the firetorch
+[18:32:07] <alpaca> i love him
+[18:32:09] <alpaca> he has a pretty face
+[18:32:13] <alpaca> i also love kyle mooney
+[18:32:17] <alpaca> and leslie jones
+[18:32:23] <alpaca> and literally the whole cast
+[18:32:26] <alpaca> they are all talented af
+[18:32:41] <alpaca> sketch comedy is very very ahrd
+[18:32:46] <oorza> alpaca https://upload.wikimedia.org/wikipedia/en/timeline/fe2dab11354df79b7281666e3db89869.png
+[18:32:48] <oorza> holy fuck
+[18:32:55] <oorza> writers timeline for SNL
+[18:32:55] <alpaca> damn
+[18:32:56] <alpaca> i like this
+[18:32:59] <oorza> someone spent a LOT of time on this image
+[18:33:08] <oorza> AL FRANKEN????
+[18:33:10] <oorza> wat
+[18:33:25] <alpaca> lol i do not believe that
+[18:33:29] <alpaca> he was an snl writer?
+[18:33:31] <alpaca> nuh uh
+[18:34:03] <oorza> honestly alpaca i think leslie jones is my favorite snl actor since sudeikis left
+[18:34:13] <oorza> i dont care that she's pretty 1 dimensional
+[18:34:22] <oorza> her 1 dimension is pretty damn large and hilarious
+[18:34:37] <oorza> but sudeikis was my favorite ever
+[18:34:39] <oorza> he was such a clown
+[18:34:55] <rscott> al franken was a comedian berfore he was a senator
+[18:35:05] <rscott> if you wanna run a joke president
+[18:35:07] <oorza> well yeah
+[18:35:19] <oorza> but who knew who started at snl
+[18:43:43] <alpaca> i started snl
+[18:44:00] <Gruselbauer> alpaca: you dig really harsh electronic stuff?
+[18:44:07] <Gruselbauer> like https://www.youtube.com/watch?v=E0WkkfpADt0
+[18:45:46] <alpaca> yes
+[18:45:49] <alpaca> i love bong ra
+[18:45:58] <alpaca> oh this is a lot
+[18:45:58] <Gruselbauer> holy shit man
+[18:46:01] <Gruselbauer> <3 <3 <3
+[18:46:15] <alpaca> o thi sis not what i expdcted
+[18:46:18] <alpaca> also this is german af
+[18:46:21] <alpaca> i hate gabber etc
+[18:46:21] <alpaca> lol
+[18:46:25] <alpaca> fucking hardcore techno
+[18:46:27] <alpaca> not my thing
+[18:46:40] <alpaca> why do i know bong ra
+[18:46:52] <alpaca> hes got stuff that isnt this intense right?
+[18:46:57] GossipGirl (GossipGirl@P2PNET-44C4B569.nat.lancs.ac.uk) left irc: Quit: http://www.kiwiirc.com/ - A hand crafted IRC client
+[18:47:23] <alpaca> maybe im just confusing him with sun ra :D
+[18:47:48] <Gruselbauer> yeah
+[18:47:55] <Gruselbauer> you were thinking of sun ra
+[18:48:14] <Gruselbauer> that is like, really harsh noise that indeed is very popular in the reich
+[18:48:32] <alpaca> i seirously dont get gabber etc
+[18:48:37] <alpaca> i just cant understand the appea
+[18:48:39] <alpaca> l
+[18:48:49] <alpaca> i love noise
+[18:48:52] <alpaca> but it doesnt do it for me
+[18:48:56] <Gruselbauer> i do what people do at hardcore or noise shows
+[18:49:01] <Gruselbauer> go crazy
+[18:49:04] <Gruselbauer> flail around
+[18:49:06] <Gruselbauer> take a ton of drugs
+[18:49:08] <alpaca> heh
+[18:49:17] <alpaca> !yt dying fetus killing on adrenaline
+[18:49:23] <Gruselbauer> it's a visceral, gotta-do-it-irl-once kind of niceness
+[18:49:25] <oorza> i wonder if the collective #420 has smoked a literal ton of pot
+[18:49:25] <alpaca> this is my equivalent
+[18:49:43] <Gruselbauer> oorza: that is something we should track
+[18:49:48] <alpaca> https://www.youtube.com/watch?v=89IxL0_4Ev8
+[18:49:51] <Gruselbauer> like we need a last.fm for weed
+[18:49:54] <oorza> i'm good for like 10lb life time
+[18:50:10] <Gruselbauer> oorza: that's a ton but i am at least at 2kg
+[18:50:19] <oorza> no a ton is 2000lb
+[18:50:21] <Gruselbauer> so, not too much since i barely toked when i was on smack
+[18:50:30] <oorza> we need to come up with 1990lb more if i count for 10
+[18:50:34] <Gruselbauer> yeah, the literal ton at least
+[18:50:41] <Gruselbauer> i count for 4 then
+[18:50:44] <alpaca> ive smoked like 10-20 lbs maybe
+[18:50:49] <oorza> where's entr0py 
+[18:50:51] <alpaca> 30 max
+[18:50:51] <oorza> he's the oldest toker
+[18:50:57] <oorza> he's probably good for 50
+[18:51:03] <alpaca> i smoke an ounce a month
+[18:51:06] <Random> what about gren?
+[18:51:08] <alpaca> and ive been smoking for a decade
+[18:51:11] <alpaca> well, regularly
+[18:51:19] <Gruselbauer> haha data + toking, good topic
+[18:51:26] <alpaca> so, nearly 10 lbs
+[18:51:34] <oorza> yeah i'm doing the math and thinking i smoke >2 oz a month is basically 2lb a year
+[18:51:37] <oorza> i might be closer to 25 than 10
+[18:51:53] <Gruselbauer> BOMBACLAAAD ...
+[18:51:59] <Random> My estimate for lifetime consumption is about 2.5 lbs
+[18:52:25] <Gruselbauer> i have a feeling my toking is about to go up by like a lot for the next months
+[18:52:41] <Gruselbauer> but still feel like i will start growing again in a few weeks
+[18:53:02] <Gruselbauer> i think 1-2lbs a year of my own shit would be a nice amount of weed to have
+[18:53:04] <embri0n> alpaca bringing out the hardcore stuff 
+[18:54:06] <embri0n> by the way... if you like Benighted, they're releasing a new album end of Feb
+[18:56:12] <alpaca> lol embri0n 
+[18:59:42] <Grenwolth> Let's get all potted up on weed! and show our tits!
+[19:00:18] <Gruselbauer> you have been visited by the ganjapoodle, if you upvote within the next 0.002ms your next weeds will be succeeds
+[19:00:45] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Connection reset by peer
+[19:03:56] <Gruselbauer> alpaca: went from hardcore to kruder & dorfmeister, because why not
+[19:04:17] <Gruselbauer> K&D Sessions has been getting high soundtrack for ten years for me
+[19:04:43] <embri0n> love that album 
+[19:04:49] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) joined #420.
+[19:04:58] <embri0n> was my first getting high soundtrack
+[19:07:41] <Gruselbauer> i know one of them via a friend, like, "met once backstage" know, not "first name yo bro" know
+[19:07:54] <Gruselbauer> but they were the shit in 90s vienna
+[19:08:56] <embri0n> they're still the shit for me now 
+[19:09:07] <embri0n> shame they havent released much since K&D sessions 
+[19:09:17] <embri0n> think there was only one release
+[19:09:22] <embri0n> remixes aside 
+[19:09:40] <Gruselbauer> yup, think so too
+[19:09:51] <Gruselbauer> man that makes me melancholic for vienna summers
+[19:10:17] <carefish> hungrryyyy
+[19:10:20] <carefish> munchies
+[19:10:27] <carefish> aw yes
+[19:13:22] <Gruselbauer> don't fritierje reaper carefish
+[19:19:05] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Ping timeout: 366 seconds
+[19:19:08] <slew> i fritierje'd once, i ended up with stoofkarbonade
+[19:21:21] <Gruselbauer> like panekoppen in ze knakkers?
+[19:22:21] <alpaca> panopticon
+[19:22:31] <alpaca> theres one a few miles north of here
+[19:22:58] <alpaca> its where shawshank was filmed
+[19:23:13] <alpaca> wow i am off the fucking rails
+[19:23:19] Action: alpaca throws a burrito at Gruselbauer 
+[19:23:19] <alpaca> got em
+[19:23:22] <Gruselbauer> i am like totes nervous to see that ex of mine.
+[19:23:24] <carefish> nein nein nein! das ist nicht mein plan, ich werde einen kapsalon zu essen
+[19:23:29] <alpaca> Gruselbauer: :(
+[19:23:30] <alpaca> the worst
+[19:23:52] <alpaca> das icht mein plan
+[19:23:52] <alpaca> lmao
+[19:23:52] <Gruselbauer> it's a month still and i need to get in shape and like not be a moron
+[19:24:07] <Gruselbauer> the new XX is a wonderfully kitschy delight btw
+[19:24:10] <alpaca> wow someone hasnt let go :D
+[19:24:17] <alpaca> yeah i kinda like it
+[19:24:18] <alpaca> others did not
+[19:24:25] <alpaca> easy to listen to
+[19:24:26] <alpaca> i like them
+[19:24:28] <Gruselbauer> i like say something loving
+[19:24:30] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) joined #420.
+[19:24:41] <Gruselbauer> na we were more like, fucking for a couple weekends eleven years ago
+[19:24:45] <alpaca> Gruselbauer: i had the chance to see them in 2009
+[19:24:49] <alpaca> and i skipped
+[19:24:53] <alpaca> er maybe 2010
+[19:24:55] <Gruselbauer> both really young and both had to get fucked on smack before we recovered
+[19:25:08] <Gruselbauer> i like em a lot too
+[19:25:20] <Gruselbauer> been chatting for like a year daily
+[19:25:51] <alpaca> oooo
+[19:25:51] <Gruselbauer> but like, when your gut tells you you're not good enough for somebody you force that shit down where it came from and go for it
+[19:25:54] <alpaca> not so much of an ex then ;)
+[19:26:00] <alpaca> lmao
+[19:26:01] <alpaca> do it man
+[19:26:07] <Gruselbauer> am gonna, yes
+[19:26:10] <alpaca> :D
+[19:26:34] <alpaca> Gruselbauer: listening to say something loving now
+[19:26:38] <Gruselbauer> but like, duuude she's beautiful as fuck and so goddamn smart, i need some support from 19yo me understanding how i ever landed on that one
+[19:26:45] <alpaca> :D
+[19:26:59] Last message repeated 1 time(s).
+[19:26:59] <alpaca> i bet you are excited to impress her
+[19:27:03] <alpaca> you will :D
+[19:27:06] <carefish> Gruselbauer: 'force that shit down where it came from and go for it'
+[19:27:08] <carefish> :p
+[19:27:18] <alpaca> i am a fucking drunk asshole
+[19:27:21] <alpaca> my fianee just said to me
+[19:27:25] <alpaca> "i love you no matter what"
+[19:27:25] <alpaca> :D
+[19:27:33] Last message repeated 1 time(s).
+[19:27:33] <alpaca> im a fuck
+[19:27:39] <Gruselbauer> yeah women are like the best part of humanity hands down
+[19:27:45] <alpaca> shes amazing
+[19:27:52] <alpaca> i dont let her on irc
+[19:27:55] <Gruselbauer> not in like a "hehe titties way" obvsl
+[19:27:56] <alpaca> she is too nice for it
+[19:28:02] <Gruselbauer> hahahaha <3
+[19:28:11] <alpaca> ugh shes the best
+[19:28:12] <alpaca> dude
+[19:28:17] <alpaca> shes playing fucking rocket league right now
+[19:28:23] <Gruselbauer> :D
+[19:28:23] <alpaca> i love her
+[19:28:30] <Gruselbauer> sounds absolutely wonderful
+[19:28:34] <alpaca> a+ 
+[19:28:43] <Gruselbauer> being comfortable around each other is worth the most
+[19:34:14] <alpaca> i am gettin sappy
+[19:34:16] <alpaca> also drunk af
+[19:37:32] <kkit> alpaca loves his fiancee, GAAAAAY
+[19:38:17] <Grenwolth> You never type that kinda shit unless she's looking over your shoulder
+[19:38:48] <Grenwolth> and already pissed at you
+[19:39:02] <alpaca> lol
+[19:39:49] <Gruselbauer> WHAT ABOUT THAT THING YOU TOLD US ABOUT CONCERNING HER
+[19:40:02] <Grenwolth> little titties?
+[19:40:29] <Gruselbauer> tittle litties
+[19:40:39] <Gruselbauer> that sounds kinda cute
+[19:41:54] <alpaca> my fiancee has magnificent boobs
+[19:41:59] <alpaca> i touch them
+[19:42:30] <Gruselbauer> you do? you crazy son of a gun
+[19:42:44] <alpaca> i know, a little unconventional
+[19:42:49] <alpaca> most of us men arent into boobs
+[19:42:49] <alpaca> i know
+[19:43:12] <Gruselbauer> yeah, i was about to call it rather kinky
+[19:48:04] <Gruselbauer> i am gonna toke a lot and watch schmick & rorty
+[19:48:12] <alpaca> ricky and mort
+[19:48:14] <alpaca> i just got high af
+[19:48:20] <alpaca> i am unable to be a person
+[19:48:27] <alpaca> https://www.youtube.com/watch?v=N0FuFfcCZiE
+[19:48:28] <Gruselbauer> like i am nicely stoned but not really massively
+[19:50:44] <carefish> hehe
+[19:50:51] <carefish> i am going to get massively stoned in a wee bit
+[19:51:01] <carefish> cleaned out the desktop, damn.. that was dusty
+[19:51:15] <carefish> btw do you guys know programs which log and write to file gpu/cpu temps?
+[19:51:26] <carefish> wanna really figure out why my desktop is acting up
+[19:51:45] <alpaca> yeah i have a dope app for that
+[19:51:50] <alpaca> its called a macbook pro
+[19:51:52] <alpaca> i am jk
+[19:51:56] <alpaca> terrible joke
+[19:52:14] <alpaca> i love apple but also wtf guys
+[19:52:27] <alpaca> 2016 was not apple's year
+[19:52:28] <carefish> speedfan does it
+[19:52:40] <carefish> apple is gonna implode 
+[19:52:43] <alpaca> maybe
+[19:52:52] <alpaca> idk
+[19:53:09] <alpaca> imo they make the best laptop and os on the market
+[19:53:24] <alpaca> but also they suck, like any large entity
+[19:53:28] <alpaca> nothing that huge can be cool
+[19:53:37] <alpaca> like if you had a 24 inch penis
+[19:53:39] <alpaca> not cool
+[19:53:39] <alpaca> huge
+[19:53:41] <alpaca> but not cool
+[19:54:01] <alpaca> i am off the rails
+[19:54:03] <alpaca> Random: ban me
+[19:54:08] <alpaca> yeah i said it!
+[19:56:14] <Gruselbauer> you are like exactly on my page about apple
+[19:56:27] <Gruselbauer> i know the problems but damn if it isn't a smooth ride computering wise
+[19:56:31] <alpaca> yeah
+[19:56:37] <alpaca> i love apple hardware
+[19:56:39] <alpaca> wont lie
+[19:57:00] <Gruselbauer> i can maybe not hax0r some chip level shit exactly to my insane liking but it lets me do anything i want pretty painlessly
+[19:57:15] <Gruselbauer> yeah the retina screen is a revelation
+[19:57:21] <Gruselbauer> 3K on 13" is soooo nice
+[19:59:16] <Gruselbauer> also yeah 24" dick would be crazy
+[19:59:21] <Gruselbauer> like "look at my huge wiener"
+[19:59:28] <Gruselbauer> but nobody could do anything more
+[19:59:38] <Gruselbauer> you'd have to fuck like large animals
+[19:59:48] <Gruselbauer> which is probably not cool
+[20:00:13] <Gruselbauer> like, both ethically and from a medical perspective
+[20:00:23] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Ping timeout: 362 seconds
+[20:00:24] <carefish> hmmhm
+[20:00:33] <Gruselbauer> but yes I would yell "DONKEYFUCKER!" if you had a 24" steel pole
+[20:00:36] <carefish> would you guys be up to trying out a ra2 remake in a few weeks?
+[20:01:07] <carefish> i wanna practice certain networking things coding wise, and i figured remaking ra2 is 'easiest'
+[20:01:19] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) joined #420.
+[20:02:42] <Gruselbauer> not asking me on several levels, would be interested but you don't optimize for 1000ms lag i am sure :D
+[20:02:52] <carefish> actually i do
+[20:02:57] <carefish> that's the thing i wanna practice
+[20:03:08] <carefish> how to pack my bits and bytes in a neat, succinct order
+[20:03:43] <Gruselbauer> yeah but won't it hurt your metric if you factor in something that is so rare nowadays?
+[20:03:52] <carefish> nope
+[20:03:56] <carefish> it would reduce latency
+[20:04:00] <carefish> and open up more options gameplay wise
+[20:04:08] <carefish> or stuff i want to sync authoritavely
+[20:04:21] <carefish> reduce latency by reducing throughput *
+[20:04:45] <Gruselbauer> okay dokey, then if i can play it on an i5 with an intel graphics card on macos, i totally will try to
+[20:04:46] <carefish> ie: 1 packet of a few bytes is better than a bunch of packets w/ their own byte
+[20:04:55] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) joined #420.
+[20:04:56] <carefish> yeah, it's gonna be built w/ unity
+[20:05:19] <carefish> it should run on a toaster since i don't have time to add proper graphics other than mockup stuff
+[20:05:55] grill (~textual@P2PNET-2F704566.dhcp.oxfr.ma.charter.com) left irc: Broken pipe
+[20:05:58] <Gruselbauer> linux toasters at least
+[20:06:00] <carefish> anything around after 2011~2012 should be able to run it just fine i mean
+[20:06:24] <Gruselbauer> proprietary firmware in toasting devices as a problem of applied code structuring
+[20:06:33] <Gruselbauer> i would make for a great lecturer in a cs curriculum
+[20:10:38] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) joined #420.
+[20:12:37] <alpaca> Gruselbauer: lets make a college
+[20:12:42] <alpaca> the college of microwaves
+[20:14:03] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) left irc: Ping timeout: 360 seconds
+[20:14:22] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) joined #420.
+[20:14:38] <Gruselbauer> and start the iviest league
+[20:14:47] <Gruselbauer> just to piss off a bunch of snobs
+[20:15:19] <carefish> hue
+[20:16:01] <Gruselbauer> "oh you only went to harvard? i went to the college of microwaves! iviest leage suckaaaa!"
+[20:16:18] <alpaca> lol
+[20:16:28] <alpaca> my college produces waves that are v micro
+[20:16:36] <alpaca> ur waves are macro af
+[20:17:03] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Ping timeout: 360 seconds
+[20:17:22] <Gruselbauer> im in your waves approaching your c
+[20:17:33] <carefish> so
+[20:17:37] <carefish> i'm going to replace my gpu
+[20:17:46] <carefish> probs w/ a nice cheap radeon 480
+[20:18:18] <Gruselbauer> *airguitars along to pixies*
+[20:24:03] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) joined #420.
+[20:26:54] <alpaca> Gruselbauer: i had never heard of pixies until 2004
+[20:27:00] <alpaca> my friends dad insisted we go see them live
+[20:27:03] <alpaca> been in love since
+[20:27:15] <alpaca> literally my first time hearing pixies was watching kim deal smoke a cig while playing bass
+[20:27:20] <Gruselbauer> oh shit they were like the soundtrack of my teenage years
+[20:27:32] <Gruselbauer> <3 <3 <3
+[20:28:20] <Gruselbauer> Doolittle is such an important record for me
+[20:28:45] <Grenwolth> yep. Another bustery day in SA
+[20:33:58] <Gruselbauer> wave of mutilation waaaaaaaveeeeee
+[20:34:20] <Gruselbauer> it's funny how you're into so much shit i also like
+[20:36:04] <Gruselbauer> it's almost as if we're both from first world nations and around the same age
+[20:36:19] <rscott> SLICLIN UP MY EYEBROWS OH OOOH OOOH
+[20:36:33] <rscott> *what the song sounded like the first time i heard it*
+[20:42:11] <Gruselbauer> lol which one? wave of mutilation?
+[20:42:16] Guest53008 (~mda1@23E41FFF.4ADA6089.E729B205.IP) left irc: Ping timeout: 363 seconds
+[20:42:55] <alpaca> Gruselbauer: dude fuck yeah
+[20:44:18] <rscott> no silly
+[20:44:20] <rscott> debaser
+[20:48:10] Guest53008 (~mda1@P2PNET-3804B9CF.fixip.t-online.hu) joined #420.
+[20:49:48] <alpaca> rscott: ugh
+[20:49:48] <alpaca> debaser
+[20:49:49] <alpaca> so
+[20:49:50] <alpaca> fucking
+[20:49:50] <alpaca> good
+[20:50:04] <alpaca> maybe my favorite song
+[20:50:34] <alpaca> of theirs. i mean
+[20:51:27] <rscott> that or gouge away
+[20:54:11] <zen> Gruselbauer: https://www.youtube.com/watch?v=37z_QYX7FGI TOKE
+[21:01:57] <alpaca> Gruselbauer: 
+[21:02:01] <alpaca> meat puppets?
+[21:03:56] <Gruselbauer> oh yes lake of fire brought me onto them
+[21:06:46] <alpaca> yes
+[21:06:48] <alpaca> same
+[21:11:10] <[_]> meat beat manifesto?
+[21:11:58] <[_]> https://www.youtube.com/watch?v=hPnHzWegavo
+[21:13:54] <Gruselbauer> yesss
+[21:15:25] <Gruselbauer> alpaca how do i make the fucking dashboard go away?
+[21:15:32] <Gruselbauer> i need it nod, it ought to remove itself
+[21:15:38] <Gruselbauer> *not
+[21:16:03] <alpaca> lol which
+[21:16:38] <Gruselbauer> the macos one
+[21:20:47] <alpaca> idk several fingers
+[21:20:49] <alpaca> lol
+[21:20:58] <alpaca> swipe it or some shit, who knows
+[21:21:03] <alpaca> i dont use workspaces
+[21:21:06] <alpaca> or expose
+[21:21:07] <alpaca> or w/e
+[21:21:55] <alpaca> butts
+[21:22:20] <Gruselbauer> seriously?
+[21:22:25] <Gruselbauer> i use all of those heavily
+[21:22:32] <alpaca> yeh i dont
+[21:22:38] <alpaca> i have like 900 monitors
+[21:22:42] <alpaca> so i just move my head
+[21:22:45] <Gruselbauer> got like 5 workspaces i anally sort around and expose there into whatever app i want
+[21:22:56] <Gruselbauer> you marvellous multimonitored stud
+[21:23:05] <alpaca>  haha
+[21:23:18] <alpaca> man i thought my fiancee just put on this ambient album
+[21:23:21] <alpaca> and i was like "dude this is sick"
+[21:23:31] <alpaca> but its just my neighbors vacuuming their carpet
+[21:23:31] <alpaca> fuck
+[21:24:45] <carefish> you're spacing the fuck out
+[21:24:48] <carefish> that's coo.
+[21:25:22] <Gruselbauer> hhaha that's great dude same place as i am
+[21:26:21] <Gruselbauer> http://imgur.com/gallery/g7jVG
+[21:29:58] <carefish> fafagsugsugrdjtijhr;yjukrpethaets
+[21:30:47] <Gruselbauer> http://i.imgur.com/5qN6cPI.jpg
+[21:31:49] <carefish> ffs
+[21:32:00] <carefish> i am too lazy to call the corp i rent this room from to fix my radiator
+[21:32:13] <carefish> mainly because it's only like 2 or 3 weeks more of shit weather
+[21:32:26] <carefish> THEN IT WILL GET NOTICABLY BETTER AND NOBODY WILL BE ABLE TO CONVINCE ME OTHERWISE
+[21:32:40] <embri0n> .we
+[21:32:51] <embri0n> !we
+[21:34:28] <Gruselbauer> carefish: laziness in a stoner channel ^^^
+[21:34:36] <Gruselbauer> http://i.imgur.com/CHPoMVN.jpg
+[21:35:00] <carefish> eheh
+[21:35:12] <oorza> eh
+[21:35:13] <oorza> 2/10
+[21:35:38] <oorza> fairly low effort shitpost
+[21:36:37] <carefish> ofcourse
+[21:41:09] <Gruselbauer> your mom's low effort
+[21:42:26] <Gruselbauer> sorry that was not very nice
+[21:42:39] <Gruselbauer> but yeah obviously that was not the height of intellectual humor :S
+[21:42:52] <[_]> dorothy mantooth is a saint!! A SAINT!
+[21:44:34] <Gruselbauer> is that the height of intellectual humor?
+[21:44:50] <KillerBong> this is really the best time to wake up
+[21:46:12] <alpaca> fuk you kb
+[21:46:59] <KillerBong> alright good mornig to you too
+[21:51:08] <carefish> lol
+[21:51:10] <carefish> so late
+[21:51:12] <carefish> bwahaha
+[21:52:31] <Gruselbauer> oh my i just started to listen to damage decade you know that alpaca?
+[21:52:35] <Gruselbauer> hella cool so far
+[21:53:04] <alpaca> oooo
+[21:53:06] <alpaca> idk
+[21:57:32] <Gruselbauer> "Temporary Survival Covenant", must be free leech shit from what or oink
+[21:57:38] <alpaca> lolol
+[21:58:33] <KillerBong> hay
+[21:58:40] <KillerBong> medical weed became legal in sweden yesterday!
+[21:59:26] <KillerBong> like, plant parts, not extracts put into products like sativX and not pills like marinol that has been legal
+[21:59:30] <KillerBong> but actual flower
+[22:01:46] <kkit> :o
+[22:01:58] <kkit> so are you gonna start a new career as a legal grower
+[22:02:04] <Gruselbauer> legal here too, but getting a script is still pretty impossible
+[22:02:11] <KillerBong> no
+[22:02:31] <KillerBong> that would be pretty cool tho
+[22:02:44] <KillerBong> selling drugs to the state
+[22:24:36] <Gruselbauer> i would sell drugs to little kids then
+[22:24:45] <Gruselbauer> they're gonna be my customers for the longest time
+[22:25:22] <carefish> heheh
+[22:31:13] <alpaca> shut up tim
+[22:31:14] <alpaca> fuck
+[22:31:19] <alpaca> i doxxd by accident
+[22:31:22] <alpaca> guys i am so drunk
+[22:31:24] <alpaca> i hate mylse
+[22:31:25] <alpaca> f
+[22:33:20] <[_]> alpaca, the only solution is to get drunker and then start texting your supervisors ASCII dicks.
+[22:33:26] <alpaca> oj is innocent
+[22:33:28] <alpaca> lol [_] 
+[22:33:33] <alpaca> i am good friends with my boss
+[22:33:36] <alpaca> he would like it
+[22:33:43] <[_]> 8======\)
+[22:34:24] <KillerBong> rocketship!
+[22:35:58] <[_]>              _
+[22:35:59] <[_]>    lol      /\) _
+[22:35:59] <[_]>        _   / / (/\  lol
+[22:35:59] <[_]>       /\) ( Y)  \ \     .`
+[22:35:59] <[_]>      / /   ""   (Y )  .~
+[22:35:59] <[_]>     ( Y)  _      ""  .
+[22:35:59] <[_]>      ""  (/\ lol   _~
+[22:35:59] <[_]>    lol    \ \     /\)
+[22:36:00] <[_]>           (Y )   / /
+[22:36:00] <[_]>                 ( Y)
+[22:36:20] <alpaca> nailed it
+[22:37:36] <Grenwolth> Butts!
+[22:38:06] <Random> you might need new glasses gren
+[22:39:44] <Grenwolth> I need butts!
+[22:42:04] <[_]> <-- watching 'Lo and Behold' ... documentary about the origin/rise of the internet by werner herzog.
+[22:42:16] <[_]> this guy has some of the weirdest comments/questions
+[22:42:42] <Grenwolth> He alwats has
+[22:43:17] <Grenwolth> Benen arounnd a long time
+[22:43:27] <[_]> yeh :D
+[22:51:39] <Random> worth it boxman? sounds up my alley
+[22:51:45] <Random> I'm a bit of an internet hobbiest
+[22:52:11] <KillerBong> the internet is a good hobby
+[22:53:09] <alpaca> we should have never let other people on the internet
+[22:53:37] <alpaca> we had a great thing going and we fucked it up!
+[22:55:24] <KillerBong> https://media.giphy.com/media/3oz8xrsX66ntbrwRJS/giphy.gif
+[22:55:28] <KillerBong> this is you alpaca 
+[22:55:29] <KillerBong> right now
+[22:55:42] <alpaca> KillerBong: fucking
+[22:55:43] <alpaca> yes
+[22:56:17] <KillerBong> ;)
+[22:59:00] <KillerBong> https://scontent-arn2-1.xx.fbcdn.net/v/t1.0-9/16299261_10154034856252127_3081825019319910057_n.jpg?oh=0ffb746a4da4b1c18dfe5b14121b69b9&oe=590A6D7C
+[22:59:10] <KillerBong> great painting
+[23:20:10] <oorza> anyone watching santa clarita diet
+[23:20:10] <oorza> alpaca?
+[23:33:00] bouquet (~bucky@P2PNET-F1EA8F1D.cust.bredbandsbolaget.se) left irc: Quit: Nettalk6 - www.ntalk.de
+[23:39:22] <Gruselbauer> i am watching pornographic material
+[23:39:33] <KillerBong> thanks for telling us
+[23:39:38] <Gruselbauer> docu about trucks
+[23:39:43] <Gruselbauer> you're welcome
+[23:40:34] <KillerBong> are you watching ice road truckers
+[23:40:50] <Gruselbauer> http://i.imgur.com/gb4XFKm.jpg i would totally eat that whole thing 
+[23:41:17] <Gruselbauer> that is pornographic too
+[23:41:25] <Gruselbauer> seasalt-caramel ice in a donut cone
+[23:41:32] <Gruselbauer> like, holy fucking shit
+[23:41:47] <Gruselbauer> that's like haven't-eaten-for-days levels of unhealthy 
+[23:41:52] <[_]> goddamnit now i have to travel to wherever that is.
+[23:42:03] <Gruselbauer> post-opioid-withdrawal food
+[23:42:06] <Gruselbauer> brisbane australia
+[23:42:13] <[_]> fine..
+[23:42:16] Action: [_] unzips
+[23:42:35] <KillerBong> i dont like that the brown stuff is discribed as "salted"
+[23:52:22] <Gruselbauer> havent had salted caramel ice cream?
+[23:52:27] <Gruselbauer> man that shit is delicious as fuck
+[23:52:28] <KillerBong> i have
+[23:52:35] <KillerBong> i dont like a lot of salt in sweets
+[23:52:53] <KillerBong> erhm, without licorice 
+[23:54:45] <rscott> salted caramel is the best
+[23:55:28] <Gruselbauer> licorice is totally not the best
+[23:55:38] <Gruselbauer> scandinavian atrocity
+[23:55:55] <KillerBong> never said
+[23:56:03] <KillerBong> i only stated what i like
+[23:58:30] <Gruselbauer> no i mean nobody likes licorice
+[23:58:48] <Gruselbauer> it tastes like i presume fried tapir anal glands taste
+[00:00:00] --- Mon Feb 13 2017
